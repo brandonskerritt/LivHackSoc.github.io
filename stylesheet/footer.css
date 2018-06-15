@@ -17,4 +17,32 @@
     color: black;
     font-size: 1.25em;
     padding: 0.5%;
-  }
+}
+
+.title {
+    text-align: center;
+}
+
+hey everyone give a warm welcome to @new_user_name! Good to have you here :relaxed:
+
+Here's a few tips and tricks.
+
+The todo bot works like so:
+
+```
+/todo "enter text to do here"
+You can assign people like so:
+/todo "say hello" @brandon
+You can see the todo list as:
+/todo list
+```
+
+The poll bot works like so:
+
+```
+\poll "question to be polled on" "option 1" "option 2" "option 3"
+```
+
+There is also a GitHub bot which publishes everything that happens on GitHub to this channel!!
+
+Have an amazing time making HackSoc great @new_user_name :relaxed:
